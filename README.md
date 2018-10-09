@@ -16,6 +16,6 @@ To run the code and see it in action:
 1. Start up the xampp control panel program
 2. Under the actions column, press "Start" to start up the local apache server emulator
 3. Place the server code in the \xampp\htdocs folder in a new folder
-4. go to your browser and type in http://localhost/<insert name of folder here>
+4. go to your browser and type in http://localhost/ + insert name of folder here
 5. This will run the php code and show the output
 6. To update the code just change any of the files, HIT SAVE (ctrl+s), then refresh the web page
